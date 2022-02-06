@@ -28,7 +28,7 @@ git@github.com:gpaytakov/code-refactor.git
 
 ## Usage
 
-<img src="./assets/images/screenshot.png" alt=screenshot />
+<img src="./assets/images/Screenshot.png" alt=screenshot />
 
 
 ## Credits
