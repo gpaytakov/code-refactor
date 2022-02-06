@@ -26,7 +26,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* apply style to class seo part of the h1 nested in header element*/
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -92,7 +92,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* to prevent code repetition multiple selectors put together */
+/* to prevent code repetition multiple class selectors put together */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
